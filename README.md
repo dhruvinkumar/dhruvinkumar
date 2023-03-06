@@ -19,7 +19,7 @@
 ![](https://visitcount.itsvg.in/api?id=dhruvinkumar&icon=0&color=0)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=dhruvinkumar&theme=nightowl)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![C](https://img.shields.io/badge/Python3-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ```
 #include <stdio.h>
 #include <string.h>
