@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,angular,bootstrap,jquery,mysql,mongodb,figma,canva,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,angular,bootstrap,jquery,mysql,mongodb,figma,git,github)](https://skillicons.dev)
 
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
